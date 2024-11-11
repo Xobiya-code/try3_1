@@ -6,3 +6,6 @@ int main()
         cout << " value of x : " << x <<endl ;
     }
 }
+ cout << "Exiting the application.\n";
+    cout << "Exiting the application.\n";
+    cout << "Exiting the application.\n";
